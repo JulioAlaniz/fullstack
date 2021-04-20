@@ -1,2 +1,4 @@
 # fullstack
-Ejercicios curso fullstack de Polo Tic Misiones
+Regsitro del curso fullstack de Polo Tic Misiones
+clases teoricas
+ejercicios practicos
