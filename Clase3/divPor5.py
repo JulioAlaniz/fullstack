@@ -15,9 +15,9 @@ for i in range(len(lista1)):
     dato = lista1[i]
     i += 1
 #    print(dato)
-    if dato >= 150:
+    if dato > 150:
         break
-    elif dato%5 == 0 or dato%5 == 5:
+    elif dato%5 == 0:
         print(dato)
 
    
