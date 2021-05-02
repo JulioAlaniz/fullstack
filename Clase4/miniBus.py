@@ -52,3 +52,7 @@ min.persona(0)
 
 print('terminado')
 
+# *********************** Modificaciones - Mejoras **********************
+
+# agregar un try para evitar errores en la entrada de datos junto con un for 
+# para volver a intentarlo. 

@@ -27,6 +27,6 @@ print('\nel area del rectangulo es: ',rec.area())
 
 # *********************** Modificaciones - Mejoras **********************
 
-#cabria agregar un try para evitar errores en la entrada de datos junto con un for 
+# agregar un try para evitar errores en la entrada de datos junto con un for 
 # para volver a intentarlo. 
-# Tambien usar una clase 'poligono' y clase hija 'rectangulo' 
+
